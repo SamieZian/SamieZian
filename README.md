@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sampat_Hake 
+- 👋 Hi, I’m @SamieZian 
 - 👀 Currently working as Senior Software Engineer @Clientell AI.
 - 🌱 Have B.Tech degree in CSE.
 - 🎯 I’m looking to collaborate on.
